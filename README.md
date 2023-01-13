@@ -2,7 +2,7 @@
 
 Made in 2020 using Python by:
 
-**Erkka Lappala* *
+**Erkka Lappala**
 
 **Joona Karhu**
 
