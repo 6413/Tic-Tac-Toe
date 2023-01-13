@@ -8,7 +8,7 @@ Made in 2020 using Python by:
 
 **Joel Mieskonen**
 
-##Screenshots of the game
+## Screenshots of the game
 
 ![image](https://user-images.githubusercontent.com/56801084/212374380-88b37479-1c64-4683-8c38-36dd057ea688.png)
 
